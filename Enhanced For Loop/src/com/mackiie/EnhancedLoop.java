@@ -10,7 +10,7 @@ public class EnhancedLoop {
 			array[i]=i+1;
 		}
 		
-		for (int i : array)
+		for (int i : array) //enhanced for loop directly call the value of that index
 		{
 			System.out.println(i);
 		}
