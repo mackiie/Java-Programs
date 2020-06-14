@@ -18,7 +18,7 @@ public class StringOperation {
 		
 		//Method 2
 		String s3 = s1.concat(s2);
-		System.out.println("result od concatenation: " + s3);
+		System.out.println("Result of concatenation: " + s3);
 		
 		// Length of the String
 		
