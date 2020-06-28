@@ -30,3 +30,16 @@ public class DemoInterface1 {
 	}
 
 }
+
+
+/*
+ If A is interface 
+ B is also a interface and
+ C is also interface then C extends A,B
+ 
+ If C is class the it implements A,B
+ 
+ 
+ But in both the cases multiple inheritence is supported.
+
+*/
